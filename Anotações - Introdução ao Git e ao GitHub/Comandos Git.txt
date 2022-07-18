@@ -1,0 +1,11 @@
+git clone + URL ou SSH
+
+cd + nome do arquivo 
+
+git add -A
+
+git commit "nome da nova alteração"
+
+git push origin main 
+
+F5 para atualizar página do repositório 
